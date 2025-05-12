@@ -1,4 +1,4 @@
-# 🎯 Data Graph Explorer
+# Data Graph Explorer
 
 This project is part of my data analysis learning journey. It demonstrates how to:
 - Load datasets from local files or URLs
@@ -12,18 +12,15 @@ This project is part of my data analysis learning journey. It demonstrates how t
   - File upload (Colab)
   - URL input
   - Hardcoded URL
-- 📊 Scatter plots and line graphs from selected columns
-- 📈 Compare regional sales by console and genre
-- 🥇 Visualize top-selling games per region
-- 🧠 Extract and discuss insights from the data
+- Scatter plots and line graphs from selected columns
+- Compare regional sales by console and genre
+- Visualize top-selling games per region
+- Extract and discuss insights from the data
 
 ## 📚 Libraries Used
 - Pandas
 - NumPy
 - Matplotlib
-
-## 📎 Sample Visualizations
-(Add images of your plots here using `![plot](path/to/image.png)`)
 
 ## 💡 Key Takeaways
 - Regional preferences differ significantly across platforms and genres.
@@ -31,4 +28,4 @@ This project is part of my data analysis learning journey. It demonstrates how t
 - Understanding local market trends is key in global product strategy.
 
 ## 📁 Dataset
-The dataset used is from [this GitHub source](https://raw.githubusercontent.com/cs109/2014_data/master/countries.csv) and modified to include additional sales metrics.
+The dataset used is from [this GitHub source](https://raw.githubusercontent.com/cs109/2014_data/master/countries.csv) 
